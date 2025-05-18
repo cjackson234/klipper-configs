@@ -79,7 +79,7 @@
             "lane": 4,
             "map": "T3",
             "load": false,
-            "prep": true,
+            "prep": false,
             "tool_loaded": false,
             "loaded_to_hub": false,
             "material": null,
@@ -88,8 +88,8 @@
             "weight": "",
             "extruder_temp": null,
             "runout_lane": "NONE",
-            "filament_status": "Prep",
-            "filament_status_led": "#ffffff",
+            "filament_status": "Not Ready",
+            "filament_status_led": "#ff0000",
             "status": null
         }
     },
