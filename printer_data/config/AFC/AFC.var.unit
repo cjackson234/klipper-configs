@@ -67,7 +67,7 @@
             "runout_lane": "NONE",
             "filament_status": "In Tool",
             "filament_status_led": "#0000ff",
-            "status": "Tool Unloading"
+            "status": "Tooled"
         },
         "lane4": {
             "name": "lane4",
