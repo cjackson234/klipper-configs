@@ -21,7 +21,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": null
+            "status": "Tool Loading"
         },
         "lane2": {
             "name": "lane2",
@@ -67,7 +67,7 @@
             "runout_lane": "NONE",
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
-            "status": "Tool Loading"
+            "status": "Error"
         },
         "lane4": {
             "name": "lane4",
