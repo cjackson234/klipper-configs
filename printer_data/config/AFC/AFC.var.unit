@@ -32,7 +32,7 @@
             "buffer_status": "Advancing",
             "lane": 2,
             "map": "T1",
-            "load": true,
+            "load": false,
             "prep": false,
             "tool_loaded": false,
             "loaded_to_hub": false,
@@ -44,7 +44,7 @@
             "runout_lane": "NONE",
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
-            "status": null
+            "status": ""
         },
         "lane3": {
             "name": "lane3",
