@@ -44,7 +44,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded"
+            "status": "Tool Loading"
         },
         "lane3": {
             "name": "lane3",
